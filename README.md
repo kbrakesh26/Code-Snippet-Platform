@@ -19,7 +19,7 @@ Built with **Next.js**, **TypeScript**, and **TailwindCSS** for speed, scalabili
 - [Next.js](https://nextjs.org/) – React Framework  
 - [TypeScript](https://www.typescriptlang.org/) – Strongly typed JavaScript  
 - [TailwindCSS](https://tailwindcss.com/) – Utility-first CSS  
-- [Prisma / MongoDB / PostgreSQL] (🔄 depending on your DB)  
+- [Prisma ] 
 - [NextAuth.js](https://next-auth.js.org/) – Authentication  
 
 ---
